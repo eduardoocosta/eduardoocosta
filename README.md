@@ -30,7 +30,7 @@
 - Git e GitHub
 - Desenvolvimento Web
 - Automação
-- Analise de Dados e Desenvolvimento de sistemas
+- Lógica de programação
 
 ---
 
