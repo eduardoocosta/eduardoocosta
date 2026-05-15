@@ -34,6 +34,32 @@
 
 ---
 
+## 🚀 Projetos em destaque
+
+🔹 Formulário para cadastro de e-commerce  
+🔹 Website de produtos responsivo  
+🔹 Tabela de despesas pessoais  
+🔹 Currículo web interativo  
+
+---
+
+## 🎯 Objetivos
+
+✔️ Evoluir como desenvolvedor  
+✔️ Aprender Python e automação  
+✔️ Criar projetos profissionais  
+✔️ Entrar na área de tecnologia  
+
+---
+
+## 💡 Interesses
+
+- Desenvolvimento Web
+- Python
+- Automação
+- Análise de Dados
+- Desenvolvimento de Sistemas
+
 ## 📫 Contato
 
 LinkedIn: www.linkedin.com/in/eduardocosta07
