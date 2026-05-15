@@ -1,16 +1,51 @@
-## Hi there 👋
+<h1 align="center">Olá 👋 Eu sou Eduardo Costa</h1>
 
-<!--
-**eduardoocosta/eduardoocosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+💻 Estudante de tecnologia e programação <br>
+🚀 Aprendendo desenvolvimento web e Python <br>
+📍 Londrina - PR
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+
+</p>
+
+---
+
+## 📚 Atualmente estudando
+
+- Python
+- Git e GitHub
+- Desenvolvimento Web
+- Automação
+- Analise de Dados e Desenvolvimento de sistemas
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardoocosta&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoocosta&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 📫 Contato
+(43) 98821-2519
+LinkedIn: www.linkedin.com/in/eduardocosta07
